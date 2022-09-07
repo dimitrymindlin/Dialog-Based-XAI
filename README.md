@@ -18,4 +18,4 @@ Collection of links to dialog based XAI systems
     - `Preceeding Paper:` **Sokol, Flach:** [Explainability Fact Sheets: A Framework for Systematic Assessment of Explainable Approaches](https://arxiv.org/abs/1912.05100)
     - `Preceeding Paper:` **Sokol, Flach:** [One Explanation Does Not Fit All The Promise of Interactive Explanations for Machine Learning Transparency](https://arxiv.org/abs/2001.09734)
 - [Explainable AI through Rule-based Interactive Conversation](http://ceur-ws.org/Vol-2578/ETMLP3.pdf) 🔐
-- Work in progress, jsut a rough draft now
+    - Work in progress, jsut a rough draft now
