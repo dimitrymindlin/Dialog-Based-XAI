@@ -10,6 +10,7 @@ Collection of links to dialog based XAI systems
     - `Preceeding Paper:` [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/pdf/2207.04154.pdf)
 - [ERIC: Explainable AI through Rule-based Interactive Conversation](http://ceur-ws.org/Vol-2578/ETMLP3.pdf)  👐
     - Paper very short, was a master thesis, yet code is available here on [github](https://github.com/viadee/eric/blob/master/README.md)
+    - [Youtube Video](https://www.youtube.com/watch?v=C3bsM33oBtY) for the system usage
 - [Model Studio](https://github.com/ModelOriented/modelStudio) 👐
     - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper 
     - `Based on:` [modelStudio: Interactive Studio with Explanations for
