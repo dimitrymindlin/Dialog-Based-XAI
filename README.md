@@ -8,6 +8,8 @@ Collection of links to dialog based XAI systems
 - [TalkToModel](https://github.com/dylan-slack/TalkToModel) 👐
     - `Based on:` [TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues](http://arxiv.org/abs/2207.04154)
     - `Preceeding Paper:` [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/pdf/2207.04154.pdf)
+- [ERIC: Explainable AI through Rule-based Interactive Conversation](http://ceur-ws.org/Vol-2578/ETMLP3.pdf)  👐
+    - Paper very short, was a master thesis, yet code is available here on [github](https://github.com/viadee/eric/blob/master/README.md)
 - [Model Studio](https://github.com/ModelOriented/modelStudio) 👐
     - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper 
     - `Based on:` [modelStudio: Interactive Studio with Explanations for
@@ -20,5 +22,5 @@ ML Predictive Models](https://www.theoj.org/joss-papers/joss.01798/10.21105.joss
 - [Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant](https://www.ijcai.org/proceedings/2018/0865.pdf) 🔐
     - `Preceeding Paper:` **Sokol, Flach:** [Explainability Fact Sheets: A Framework for Systematic Assessment of Explainable Approaches](https://arxiv.org/abs/1912.05100)
     - `Preceeding Paper:` **Sokol, Flach:** [One Explanation Does Not Fit All The Promise of Interactive Explanations for Machine Learning Transparency](https://arxiv.org/abs/2001.09734)
-- [Explainable AI through Rule-based Interactive Conversation](http://ceur-ws.org/Vol-2578/ETMLP3.pdf) 🔐
-    - Work in progress, jsut a rough draft now
+
+
