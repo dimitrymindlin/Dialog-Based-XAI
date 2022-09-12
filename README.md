@@ -9,8 +9,10 @@ Collection of links to dialog based XAI systems
     - `Based on:` [TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues](http://arxiv.org/abs/2207.04154)
     - `Preceeding Paper:` [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/pdf/2207.04154.pdf)
 - [Model Studio](https://github.com/ModelOriented/modelStudio) 👐
-    - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper  
-    - `Based on:` [The Grammar of Interactive Explanatory Model Analysis](https://arxiv.org/abs/2005.00497)
+    - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper 
+    - `Based on:` [modelStudio: Interactive Studio with Explanations for
+ML Predictive Models](https://www.theoj.org/joss-papers/joss.01798/10.21105.joss.01798.pdf)
+    - `Following Work:` [The Grammar of Interactive Explanatory Model Analysis](https://arxiv.org/abs/2005.00497)
 - [XAI-bot](https://github.com/ModelOriented/xaibot/blob/master/xaibot2.gif) 👐
     - "The chatbot is based on [dialog-flow](https://dialogflow.com/) google infrastructure. It communicates with [DALEX explainers](https://github.com/pbiecek/DALEX/) written in R through [plumber REST API](https://www.rplumber.io/docs/rendering-and-output.html)."
     - Find the chatbot here: [https://kmichael08.github.io](https://kmichael08.github.io/).
