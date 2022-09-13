@@ -5,7 +5,9 @@ Collection of links to dialog based XAI systems
 
 ## Implemented Systems (👐 = open source, 🔐 = No public code)
 
-- 👐 [TalkToModel](https://github.com/dylan-slack/TalkToModel) 
+- 👐 [X-Agent](https://github.com/bach1292/XAGENT)
+    - `Based on:` [Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent](https://arxiv.org/pdf/2209.02552.pdf)
+- 👐 [TalkToModel](https://github.com/dylan-slack/TalkToModel)
     - `Based on:` [TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues](http://arxiv.org/abs/2207.04154)
     - `Preceeding Paper:` [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/pdf/2207.04154.pdf)
 - 👐 [ERIC: Explainable AI through Rule-based Interactive Conversation](https://github.com/viadee/eric/blob/master/README.md)  
