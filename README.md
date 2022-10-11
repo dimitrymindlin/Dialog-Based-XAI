@@ -20,7 +20,7 @@ Collection of links to dialog based XAI systems
 -  👐 [XAI-bot](https://github.com/ModelOriented/xaibot/blob/master/xaibot2.gif)
     - "The chatbot is based on [dialog-flow](https://dialogflow.com/) google infrastructure. It communicates with [DALEX explainers](https://github.com/pbiecek/DALEX/) written in R through [plumber REST API](https://www.rplumber.io/docs/rendering-and-output.html)."
     - Find the chatbot here: [https://kmichael08.github.io](https://kmichael08.github.io/).
-    - `Based on:` [What Would You Ask the Machine Learning Model? Identification of User Needs for Model Explanations Based on Human-Model Conversations](https://arxiv.org/abs/2002.05674)
+    - `Based on:` [Kuźba, Michał, and Przemysław Biecek. "What Would You Ask the Machine Learning Model? Identification of User Needs for Model Explanations Based on Human-Model Conversations." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2020.](https://arxiv.org/abs/2002.05674)
 - 🔐 [Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant](https://www.ijcai.org/proceedings/2018/0865.pdf) 
     - `Preceeding Paper:` **Sokol, Flach:** [Explainability Fact Sheets: A Framework for Systematic Assessment of Explainable Approaches](https://arxiv.org/abs/1912.05100)
     - `Preceeding Paper:` **Sokol, Flach:** [One Explanation Does Not Fit All The Promise of Interactive Explanations for Machine Learning Transparency](https://arxiv.org/abs/2001.09734)
