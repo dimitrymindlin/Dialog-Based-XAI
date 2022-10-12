@@ -9,9 +9,9 @@ Collection of links to dialog based XAI systems
     - `Based on:` [Nguyen, Van Bach, Jörg Schlötterer, and Christin Seifert. "Explaining Machine Learning Models in Natural Conversations: Towards a Conversational XAI Agent." arXiv preprint arXiv:2209.02552 (2022)](https://arxiv.org/pdf/2209.02552.pdf)
 - 👐 [TalkToModel](https://github.com/dylan-slack/TalkToModel)
     - `Based on:` [Slack, Dylan, et al. "TalkToModel: Understanding Machine Learning Models With Open Ended Dialogues." arXiv preprint arXiv:2207.04154 (2022)](http://arxiv.org/abs/2207.04154)
-    - `Preceeding Paper:` [Rethinking Explainability as a Dialogue: A Practitioner's Perspective](https://arxiv.org/abs/2202.01875)
+    - `Preceeding Paper:` [Lakkaraju, H., Slack, D., Chen, Y., Tan, C., & Singh, S. (2022). Rethinking Explainability as a Dialogue: A Practitioner's Perspective. arXiv preprint arXiv:2202.01875.](https://arxiv.org/abs/2202.01875)
 - 👐 [ERIC: Explainable AI through Rule-based Interactive Conversation](https://github.com/viadee/eric/blob/master/README.md)  
-    - `Based on:` [Werner, Christian. "Explainable AI through Rule-based Interactive Conversation." Edbt/icdt workshops. 2020.](http://ceur-ws.org/Vol-2578/ETMLP3.pdf) very short, was a master thesis 
+    - `Based on:` [Werner, C. (2020). Explainable AI through Rule-based Interactive Conversation. In Edbt/icdt workshops.](http://ceur-ws.org/Vol-2578/ETMLP3.pdf) very short, was a master thesis 
     - [Youtube Video](https://www.youtube.com/watch?v=C3bsM33oBtY) for the system usage
 - 👐 [Model Studio](https://github.com/ModelOriented/modelStudio) 
     - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper 
