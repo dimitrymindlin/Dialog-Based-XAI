@@ -17,9 +17,7 @@ Collection of links to dialog based XAI systems
     - primerely a dashboard, yet the authors talk about integrating that in a dialog scenario ... check paper 
     - `Based on:` [Baniecki, Hubert, and Przemyslaw Biecek. "modelStudio: Interactive studio with explanations for ML predictive models." Journal of Open Source Software 4.43 (2019): 1798](https://www.theoj.org/joss-papers/joss.01798/10.21105.joss.01798.pdf)
     - `Following Work:` [The Grammar of Interactive Explanatory Model Analysis](https://arxiv.org/abs/2005.00497)
--  👐 [XAI-bot](https://github.com/ModelOriented/xaibot/blob/master/xaibot2.gif)
-    - "The chatbot is based on [dialog-flow](https://dialogflow.com/) google infrastructure. It communicates with [DALEX explainers](https://github.com/pbiecek/DALEX/) written in R through [plumber REST API](https://www.rplumber.io/docs/rendering-and-output.html)."
-    - Find the chatbot here: [https://kmichael08.github.io](https://kmichael08.github.io/).
+-  👐 [XAI-bot](https://github.com/ModelOriented/xaibot/)
     - `Based on:` [Kuźba, Michał, and Przemysław Biecek. "What Would You Ask the Machine Learning Model? Identification of User Needs for Model Explanations Based on Human-Model Conversations." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2020.](https://arxiv.org/abs/2002.05674)
 - 🔐 `Based on:` [Sokol, K., & Flach, P. A. (2018, January). Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant. In IJCAI (pp. 5868-5870)](https://www.ijcai.org/proceedings/2018/0865.pdf) 
     - `Preceeding Paper:` [Sokol, K., & Flach, P. (2020, January). Explainability fact sheets: a framework for systematic assessment of explainable approaches. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 56-67)](https://arxiv.org/abs/1912.05100)
