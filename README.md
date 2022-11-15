@@ -19,6 +19,8 @@ Collection of links to dialog based XAI systems
     - `Following Work:` [The Grammar of Interactive Explanatory Model Analysis](https://arxiv.org/abs/2005.00497)
 -  👐 [XAI-bot](https://github.com/ModelOriented/xaibot/)
     - `Based on:` [Kuźba, Michał, and Przemysław Biecek. "What Would You Ask the Machine Learning Model? Identification of User Needs for Model Explanations Based on Human-Model Conversations." Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2020.](https://arxiv.org/abs/2002.05674)
+- 🔐 Chat XAI
+    - `Based on:` [Gao, M., Liu, X., Xu, A., & Akkiraju, R. (2021, September). Chat-xai: A new chatbot to explain artificial intelligence. In Proceedings of SAI Intelligent Systems Conference (pp. 125-134). Springer, Cham.](https://link.springer.com/chapter/10.1007/978-3-030-82199-9_9)
 - 🔐 Glass Box
     - `Based on:` [Sokol, K., & Flach, P. A. (2018, January). Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant. In IJCAI (pp. 5868-5870)](https://www.ijcai.org/proceedings/2018/0865.pdf) 
     - `Preceeding Paper:` [Sokol, K., & Flach, P. (2020, January). Explainability fact sheets: a framework for systematic assessment of explainable approaches. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 56-67)](https://arxiv.org/abs/1912.05100)
