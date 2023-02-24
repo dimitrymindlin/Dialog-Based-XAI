@@ -25,5 +25,7 @@ Collection of links to dialog based XAI systems
     - `Based on:` [Sokol, K., & Flach, P. A. (2018, January). Glass-Box: Explaining AI Decisions With Counterfactual Statements Through Conversation With a Voice-enabled Virtual Assistant. In IJCAI (pp. 5868-5870)](https://www.ijcai.org/proceedings/2018/0865.pdf) 
     - `Preceeding Paper:` [Sokol, K., & Flach, P. (2020, January). Explainability fact sheets: a framework for systematic assessment of explainable approaches. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 56-67)](https://arxiv.org/abs/1912.05100)
     - `Preceeding Paper:` [Sokol, Kacper, and Peter Flach. "One explanation does not fit all." KI-Künstliche Intelligenz 34.2 (2020): 235-250.](https://arxiv.org/abs/2001.09734)
+- 🔐 🤝 ConvXAI
+    - `Based on:` [Malandri, Lorenzo, et al. "ConvXAI: a System for Multimodal Interaction with Any Black-box Explainer." Cognitive Computation (2022): 1-32.](https://link.springer.com/article/10.1007/s12559-022-10067-7)
 
 
